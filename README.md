@@ -45,7 +45,7 @@ This guide is a set up of the osTicket software
 
 **_Create the Supreme Admin Role._**
 
-<img width="1096" alt="Screen Shot 2023-07-10 at 8 38 24 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/f96fa232-d29c-42ce-b204-a94779417277">
+<img width="1096" alt="Screenshot 2023-09-21 165241" src="https://github.com/DJcaston76/post-install-config/assets/145403292/c55c5075-08c9-41f2-9e4a-8009c192c916">
 
 **_Turn on all of these permissions. There are plenty of permissions under Tickets, Tasks, and Knowledgebase._**
 
