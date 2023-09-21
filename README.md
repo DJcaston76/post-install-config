@@ -81,7 +81,7 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1194" alt="Screen Shot 2023-07-10 at 8 54 48 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/c3957e06-b945-4543-8512-637c96341b00">
+<img width="1194" alt="Screenshot 2023-09-21 170146" src="https://github.com/DJcaston76/post-install-config/assets/145403292/ccc9a66c-d002-4a43-90c4-1efebcd4d430">
 
 **_Review the setting to allow anonymous users to create tickets._**
 
