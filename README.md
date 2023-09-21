@@ -97,7 +97,7 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1105" alt="Screenshot 2023-09-21 170556" src="ttps://github.com/DJcaston76/post-install-config/assets/145403292/ff2621d0-ddc9-492c-a505-e74f7e34d4d3">
+<img width="1105" alt="Screenshot 2023-09-21 170556" src="https://github.com/DJcaston76/post-install-config/assets/145403292/ff2621d0-ddc9-492c-a505-e74f7e34d4d3">
 
 **_The agent profile has many options to set access and permissions._**
 
