@@ -89,15 +89,15 @@ This guide is a set up of the osTicket software
 
 **Step 5: Create an Agent** - Agents are help desk professionals who work the tickets.
 - Navigate to Admin Panel > Agents > Add New Agent
-- Name the agent "Anthony Torres"
-- Add Anthony's department as System Administrators
+- Name the agent "Josh Evans"
+- Add Josh's department as System Administrators
 - Assign the Supreme Admin role for him
 - Assign him to the Level II Support Team
 - Add Support under the Extended Access so he can view/edit tickets
 
 <br/>
 
-<img width="1105" alt="Screen Shot 2023-07-10 at 8 58 23 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/4f007583-8104-4b34-96cc-7fff281ec850">
+<img width="1105" alt="Screenshot 2023-09-21 170556" src="ttps://github.com/DJcaston76/post-install-config/assets/145403292/ff2621d0-ddc9-492c-a505-e74f7e34d4d3">
 
 **_The agent profile has many options to set access and permissions._**
 
