@@ -123,11 +123,11 @@ This guide is a set up of the osTicket software
 
 **Step 7: Create an SLA** - Service Level Agreements (SLAs) define what kind of response time and priority level is warranted for each ticket.
 - Navigate to Admin Panel > Manage > SLA > Add New SLA Plan
-- Name the SLA Plan "SEV-A" and set it on a 24/7 schedule with a 1-hour grace period
+- Name the SLA Plan "SEV-G" and set it on a 24/7 schedule with a 1-hour grace period
 
 <br/>
 
-<img width="1208" alt="Screen Shot 2023-07-10 at 9 21 25 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/24720102-a884-4e04-bf8c-831ee9cf867d">
+<img width="1208" alt="Screenshot 2023-09-21 171928" src="https://github.com/DJcaston76/post-install-config/assets/145403292/8a866a06-e50b-4e9c-aba2-948773466114">
 
 **_SLAs can be set up to define what kind of timeline each ticket has in order to remain compliant with the service contract._**
 
