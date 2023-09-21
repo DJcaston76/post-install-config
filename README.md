@@ -1,4 +1,4 @@
-<img width="790" alt="Screen Shot 2023-07-05 at 12 01 33 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/c7e47b62-8276-47e5-8c1a-69944eee66b1">
+<img width="790" alt="Screen Shot 2023-07-05 at 12 01 33 AM" src="https://github.com/DJcaston76/post-install-config/assets/91516100/c7e47b62-8276-47e5-8c1a-69944eee66b1">
 
 <h1>osTicket - Post-Install Configuration</h1>
 This guide is a set up of the osTicket software 
