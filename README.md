@@ -41,7 +41,7 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1153" alt="Screen Shot 2023-07-10 at 8 38 54 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/35da20c1-7601-4b94-9cae-7332de1fee43">
+<img width="1153" alt="Screenshot 2023-09-21 165015" src="https://github.com/DJcaston76/post-install-config/assets/145403292/b0d30ac9-27be-4884-a41c-c21358be3af2">
 
 **_Create the Supreme Admin Role._**
 
