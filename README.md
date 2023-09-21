@@ -58,7 +58,7 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1200" alt="Screen Shot 2023-07-10 at 8 47 15 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/40d692b0-9e32-4a4a-8a5a-cbecf5ee427e">
+<img width="1200" alt="Screenshot 2023-09-21 165528" src="https://github.com/DJcaston76/post-install-config/assets/145403292/057f4b49-d40e-49cc-999b-a0b3f1301541">
 
 **_Use the default settings for the Systems Administrators Department._**
 
