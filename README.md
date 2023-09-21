@@ -111,7 +111,7 @@ This guide is a set up of the osTicket software
 
 **Step 6: Create a User** - Users create support tickets to get assistance from agents.
 - Navigate to Agent Panel > Users > Add User _(Note: You can also import users)_
-- Name the User "Dylan Thompson" and add an email for them
+- Name the User "Dallas Young" and add an email for them
 
 <br/>
 
