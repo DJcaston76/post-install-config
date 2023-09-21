@@ -1,7 +1,7 @@
 <img width="790" alt="Screen Shot 2023-07-05 at 12 01 33 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/c7e47b62-8276-47e5-8c1a-69944eee66b1">
 
 <h1>osTicket - Post-Install Configuration</h1>
-This walkthrough is a set up of the osTicket software 
+This guide is a set up of the osTicket software 
 
 <h2>Environments and Technologies Used</h2>
 
@@ -28,7 +28,7 @@ This walkthrough is a set up of the osTicket software
 
 <br/>
 
-<img width="1280" alt="Screen Shot 2023-07-10 at 8 28 57 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/393bec16-8e3e-41f7-8c36-7a2999077e63">
+<img width="1280" alt="Screenshot 2023-09-21 163854" src="https://github.com/DJcaston76/post-install-config/assets/145403292/ca76f587-0802-434a-b34c-c4ab77d149d8">
 
 **_Start by logging into the Agent Login Page for osTicket._** 
 
