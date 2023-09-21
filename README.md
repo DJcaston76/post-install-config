@@ -115,7 +115,7 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1201" alt="Screen Shot 2023-07-10 at 9 17 26 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/21612baa-a541-4fb7-98b9-decdbc8e05b8">
+<img width="1201" alt="Screenshot 2023-09-21 171517" src="https://github.com/DJcaston76/post-install-config/assets/145403292/60c41454-0d9a-43ad-a927-c8a20baf60f5">
 
 **_Users are the ticket owners. It's possible to create them one by one, but you can also import them in bulk._**
 
