@@ -103,7 +103,7 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1207" alt="Screen Shot 2023-07-10 at 8 59 04 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/b597218c-86e8-43f9-b19f-eafdfd86dbd5">
+<img width="1207" alt="Screenshot 2023-09-21 171143" src="https://github.com/DJcaston76/post-install-config/assets/145403292/6b693842-b54d-4cd9-a94e-6746fb3e4f14">
 
 **_Under the agent profile, osTicket lets you set and change the password as long as you have the permissions to change this._**
 
