@@ -139,11 +139,11 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1243" alt="Screen Shot 2023-07-13 at 9 38 00 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/01c09ec5-eec5-4ec2-94b6-9601455c9f40">
+<img width="1243" alt="Screenshot 2023-09-21 172154" src="https://github.com/DJcaston76/post-install-config/assets/145403292/890d9994-bcc0-4108-adaf-b135330b4893">
 
 **_Help Topics will be visible to users to assign to individual tickets. You can customize further under the "New Tickets options" and "Forms" tabs._**
 
 <h2>Next Steps</h2>
 
 Continue to the third part to create and work a ticket.
-[Ticket Lifecycle](https://github.com/yeahglo/ticket-lifecycle)
+[Ticket Lifecycle](https://github.com/DJcaston76/ticket-lifecycle)
