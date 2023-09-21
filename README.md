@@ -70,7 +70,7 @@ This guide is a set up of the osTicket software
 
 <br/>
 
-<img width="1203" alt="Screen Shot 2023-07-10 at 8 51 26 AM" src="https://github.com/yeahglo/post-install-config/assets/91516100/0460bfed-4a5a-4f0f-a1b1-128fd2ecb792">
+<img width="1203" alt="Screenshot 2023-09-21 165823" src="https://github.com/DJcaston76/post-install-config/assets/145403292/32daf82c-3821-4558-9694-b3f63fe3a34a">
 
 **_More settings can be configured at the Team level, including assigning a team lead or adding members as you set up the team._**
 
